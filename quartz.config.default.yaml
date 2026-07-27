@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: null
   locale: ko-KR
-  baseUrl: shc-developer.github.io/kdvo-mini-brain-site
+  baseUrl: kdvo-brain.com
   ignorePatterns:
     - private
     - templates
